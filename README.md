@@ -24,7 +24,7 @@ We can use GPT-4 to design queries, either in terms of wording or targeted in te
 There is a recency function, which will re-order the initial hook query to emphasise recent additions
 The retrieved memories are integrated into the conversation by way of an inner monologue function
 
-# To-do
+#### To-do
 1. Multiple hook queries, multiple hangers
 2. Polish recency function, requires testing
 3. Allow for variation in terms of hanger size, etc.
